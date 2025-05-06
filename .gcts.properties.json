@@ -1,0 +1,14 @@
+{
+  "name": "znew_component",
+  "version": "1.0.0",
+  "description": "ZNEW_COMPONENT",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/22D73F0E66131FE08AC9FE09FD7448A7_0"
+  }
+}
